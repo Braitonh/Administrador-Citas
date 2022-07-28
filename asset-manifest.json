@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Administrador-Citas/static/css/main.3becedc6.css",
+    "main.js": "/Administrador-Citas/static/js/main.e260560c.js",
+    "index.html": "/Administrador-Citas/index.html",
+    "main.3becedc6.css.map": "/Administrador-Citas/static/css/main.3becedc6.css.map",
+    "main.e260560c.js.map": "/Administrador-Citas/static/js/main.e260560c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3becedc6.css",
+    "static/js/main.e260560c.js"
+  ]
+}
